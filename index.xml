@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mehdi Lahlou</title>
-    <link>https://mehdilahlou.github.io/</link>
+    <link>https://mehdiilahlou.github.io/</link>
     <description>Recent content on Mehdi Lahlou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Aug 2022 12:40:35 +0100</lastBuildDate><atom:link href="https://mehdilahlou.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Aug 2022 12:40:35 +0100</lastBuildDate><atom:link href="https://mehdiilahlou.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Salutations</title>
-      <link>https://mehdilahlou.github.io/posts/mypost/</link>
+      <link>https://mehdiilahlou.github.io/posts/mypost/</link>
       <pubDate>Wed, 17 Aug 2022 12:40:35 +0100</pubDate>
       
-      <guid>https://mehdilahlou.github.io/posts/mypost/</guid>
+      <guid>https://mehdiilahlou.github.io/posts/mypost/</guid>
       <description>Hello my friend Hello my friend Hello my friend</description>
       <content>&lt;h1 id=&#34;hello-my-friend&#34;&gt;Hello my friend&lt;/h1&gt;
 &lt;h2 id=&#34;hello-my-friend-1&#34;&gt;Hello my friend&lt;/h2&gt;
